@@ -3,5 +3,11 @@
   "project_type": "story",
   "title": "Story test",
   "description": "Short descriptive text",
-  "body": "Longer **markdown**-*enabled* content text."
+  "body": "Longer **markdown**-*enabled* content text.",
+  "cover": "/img/image0.jpeg",
+  "gallery": [
+    "/img/placeholder-320x180.png",
+    "/img/image0.jpeg",
+    "/img/placeholder-320x180.png"
+  ]
 }
